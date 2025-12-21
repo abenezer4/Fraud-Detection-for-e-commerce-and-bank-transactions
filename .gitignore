@@ -1,0 +1,13 @@
+# Data
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv6/
+.env
+
+# Jupyter
+.ipynb_checkpoints
